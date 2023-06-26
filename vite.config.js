@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: '/vue-tech-task/',
+  base: '/vue-task/',
 
   resolve: {
     alias: {

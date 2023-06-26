@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+Project describing:
+Used HTML, CSS, Vue, Bulma, Eslint, Prettier
