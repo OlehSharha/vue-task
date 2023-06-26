@@ -39,4 +39,4 @@ npm run lint
 
 
 Project describing:
-Used HTML, CSS, Vue, Bulma, Eslint, Prettier
+Used HTML, SCSS, Vue, Bulma, Eslint, Prettier
