@@ -30,7 +30,6 @@ export default {
 
   watch: {
     todos: {
-      deep: true,
       handler() {
         localStorage.setItem('todos', JSON.stringify(this.todos));
       },
